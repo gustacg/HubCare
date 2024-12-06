@@ -73,7 +73,7 @@ http://localhost:8000
 
 ### 6. Access Credentials
 Use the default credentials to log into the system:
-**Admin:** gustavocg@gmail.com + 123
+**Admin:** gustavocalixto2005@gmail.com + 123
 
 ### 7. Start Using It!
 
