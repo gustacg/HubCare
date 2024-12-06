@@ -46,6 +46,39 @@
 
 <br/>
 
+## 📚 How to Use HubCare
+
+### 1. Clone the Project
+Download the project to your computer:
+```bash
+git clone https://https://github.com/gustacg/HubCare.git
+```
+
+### 2. Import the Database
+Import the SQL file located in the project's root directory into phpMyAdmin or another database tool.
+
+### 3. Configure the Database
+Update the `config.php` file with your database connection details:
+- Host;
+- User;
+- Password;
+- Database name.
+
+### 4. Start the System
+Run the system using PHP's built-in server or a tool like XAMPP/WAMP:
+**php -S localhost:8000**
+
+### 5. Open in Your Browser:
+http://localhost:8000
+
+### 6. Access Credentials
+Use the default credentials to log into the system:
+**Admin:** gustavocg@gmail.com + 123
+
+### 7. Start Using It!
+
+<br/>
+
 ## 📬 Contact  
 
 If you have any questions, suggestions, or need assistance, feel free to reach out:  
